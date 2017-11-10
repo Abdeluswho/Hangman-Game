@@ -7,4 +7,26 @@ body {
 #heading{
 	text-align: center;
 	font-family: serif;
+	color: wheat;
+	margin-bottom: 40px;
+}
+.row{
+	font-family: serif;
+	color: wheat;
+	margin-right: 20px;
+	border: 2px black solid;
+}
+.col-lg-4{
+	border: 2px black solid;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.underscore{
+	margin-top: 140px;
+	font-size: 100px;
+	color: wheat;
+	font-family: serif;
+	border: 2px black solid;
+	text-align: center;
+
 }
